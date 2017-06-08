@@ -66,3 +66,7 @@ Use the popover presentation (even on iPhone) for auxiliary view controllers to 
 ## Testing
 
 For testing and debugging AR experiences, it helps to have a live visualization of the scene processing that ARKit performs. See the `showDebugVisuals` method in this project's `ViewController` class for world tracking visualization, and the `HitTestVisualization` class for a demonstration of ARKit's feature detection methods.
+
+## License
+
+ObjectPlacing is released under the MIT license. [See LICENSE](https://github.com/Woonohyo/PlacingObjects/blob/master/LICENSE/LICENSE.txt) for details.
