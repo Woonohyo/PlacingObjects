@@ -69,4 +69,4 @@ For testing and debugging AR experiences, it helps to have a live visualization 
 
 ## License
 
-ObjectPlacing is released under the MIT license. [See LICENSE](https://github.com/Woonohyo/PlacingObjects/blob/master/LICENSE/LICENSE.txt) for details.
+ObjectPlacing is released by Apple Inc., under the MIT license. [See LICENSE](https://github.com/Woonohyo/PlacingObjects/blob/master/LICENSE/LICENSE.txt) for details.
